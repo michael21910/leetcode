@@ -1,6 +1,6 @@
 # LeetCode
 My submissions on LeetCode.  
 Current problems solved:
-* Easy (39)
+* Easy (40)
 * Medium (4)
 * Hard (1)
